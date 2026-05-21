@@ -2,4 +2,4 @@
 
 welcome, i'm a dev in the web
 
-zuirx.com may give you what you need (in your life [or not])
+zuirx.com may give you what you need (for your life [or almost])
